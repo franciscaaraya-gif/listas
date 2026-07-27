@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[291,["975","static/chunks/975-fe219d873aab56cc.js","431","static/chunks/431-aa01dc4b7e30a391.js","118","static/chunks/118-5f95f96ef03f9eb2.js","177","static/chunks/app/layout-60ce97f38d1e8593.js"],"Toaster"]
+5:I[1959,[],"ClientPageRoot"]
+6:I[5926,["975","static/chunks/975-fe219d873aab56cc.js","619","static/chunks/619-ba102abea3e3d0e4.js","431","static/chunks/431-aa01dc4b7e30a391.js","391","static/chunks/391-5c93ee0a47657fb4.js","118","static/chunks/118-5f95f96ef03f9eb2.js","56","static/chunks/56-519e6f3c08a9ea86.js","364","static/chunks/364-84fa927506e0d759.js","666","static/chunks/app/new-call/page-2e0b8ab17b7c09ce.js"],"default"]
+9:I[4431,[],"OutletBoundary"]
+b:I[5278,[],"AsyncMetadataOutlet"]
+d:I[4431,[],"ViewportBoundary"]
+f:I[4431,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[7150,[],""]
+:HL["/_next/static/css/c47949e2e2df245b.css","style"]
+0:{"P":null,"b":"X7GvPHtEwsBxKf97Z9H_b","p":"","c":["","new-call",""],"i":false,"f":[[["",{"children":["new-call",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c47949e2e2df245b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"manifest","href":"/manifest.json"}],["$","meta",null,{"name":"theme-color","content":"#1a73e8"}]]}],["$","body",null,{"className":"font-body antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center","children":["$","h1",null,{"className":"text-3xl font-bold","children":"Página no encontrada"}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L4",null,{}]]}]]}]]}],{"children":["new-call",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L5",null,{"Component":"$6","searchParams":{},"params":{},"promises":["$@7","$@8"]}],null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],null],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+7:{}
+8:"$0:f:0:1:2:children:2:children:1:props:children:0:props:params"
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+13:I[622,[],"IconMark"]
+c:{"metadata":[["$","title","0",{"children":"Listas 7ma Compañía"}],["$","meta","1",{"name":"description","content":"Desarrollado por Francisca Araya"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"2975x3850"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"

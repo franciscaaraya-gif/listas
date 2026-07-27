@@ -1,0 +1,22 @@
+{
+  "name": "Listas 7ma Compañía CBS",
+  "short_name": "Listas 7ma",
+  "description": "Aplicación para el enrolamiento de voluntarios en llamados de bomberos.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/7/192/192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://picsum.photos/seed/7/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
