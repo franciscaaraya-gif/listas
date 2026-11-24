@@ -13,10 +13,17 @@ import {
 } from '@/components/ui/select';
 import { ArrowLeft } from 'lucide-react';
 
-export default function NewCallPage() {
-  const today = new Date().toISOString().split('T')[0];
+// Fecha de hoy en hora LOCAL (YYYY-MM-DD). `toISOString()` entrega hora UTC y,
+// en Chile, pasadas las 20:00-21:00 devolvía la fecha del día siguiente.
+function todayLocal() {
+  const d = new Date();
+  const mm = String(d.getMonth() + 1).padStart(2, '0');
+  const dd = String(d.getDate()).padStart(2, '0');
+  return `${d.getFullYear()}-${mm}-${dd}`;
+}
 
-  const [date, setDate] = useState(today);
+export default function NewCallPage() {
+  const [date, setDate] = useState(todayLocal);
   const [clave, setClave] = useState<string | undefined>(undefined);
   const [machine, setMachine] = useState<string | undefined>(undefined);
   const [address, setAddress] = useState('');
